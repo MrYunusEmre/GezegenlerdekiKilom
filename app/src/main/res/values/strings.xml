@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GezegenlerdekiKilom</string>
+    <string name="app_baslık">Gezegenlerde Kaç Kilosun ???</string>
+    <string name="app_hintBaslık">Dünyadaki Kilon Nedir?</string>
+    <string name="hesapla">HESAPLA</string>
+    <string name="sonuc">sonuc</string>
+</resources>
